@@ -16,6 +16,11 @@ The presentation will be created with slides corresponding to the graphs in Exce
 
 **Note:** Make sure the "Microsoft PowerPoint x.x Object Library" reference is enabled in the VBA editor, where "x.x" represents the installed version of PowerPoint.
 
+<a href="https://uploaddeimagens.com.br/images/004/537/372/full/refer%C3%AAncias_vba_project.png?1688937442"><img src="https://uploaddeimagens.com.br/images/004/537/372/full/refer%C3%AAncias_vba_project.png?1688937442" alt="References VBA" border="0"></a>
+
+## Working
+<img src="https://s11.gifyu.com/images/SWTH0.gif">
+
 ## System Requirements
 
 - Microsoft Excel
