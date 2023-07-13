@@ -1,4 +1,4 @@
-# Create Presentation in VBA
+# Create Presentation with VBA
 This is VBA code that creates a PowerPoint presentation from graphs copied from Excel spreadsheets. The code loops through several tabs in Excel, copies the desired charts, and pastes them onto corresponding slides in the presentation.
 
 ## Instructions for use
