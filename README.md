@@ -19,7 +19,7 @@ The presentation will be created with slides corresponding to the graphs in Exce
 <a href="https://uploaddeimagens.com.br/images/004/537/372/full/refer%C3%AAncias_vba_project.png?1688937442"><img src="https://uploaddeimagens.com.br/images/004/537/372/full/refer%C3%AAncias_vba_project.png?1688937442" alt="References VBA" border="0"></a>
 
 ## Working
-<img src="https://s11.gifyu.com/images/SWTH0.gif">
+<img src="https://i.ibb.co/C708Vfp/68747470733a2f2f7331312e67696679752e636f6d2f696d616765732f53575448302e676966.gif">
 
 ## System Requirements
 
